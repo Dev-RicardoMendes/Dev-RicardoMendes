@@ -15,7 +15,7 @@
 ---
 
 ### 📌 Resumo
-Estudante de Engenharia de Software com bagagem de +3 anos em operações, logística e gestão de processos. Aplico essa maturidade em resolução de problemas e organização para construir rotinas de backend estruturadas e eficientes.
+Estudante de Engenharia de Software com bagagem de +3 anos na área operacional e logística. Atualmente focado na transição para tecnologia, desenvolvendo projetos práticos de estudo em backend e aplicando conceitos de arquitetura, banco de dados e lógica de programação.
 
 ---
 
