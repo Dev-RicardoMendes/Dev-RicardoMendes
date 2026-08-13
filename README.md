@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ricardo Mendes
 
-<!--
-**Dev-RicardoMendes/Dev-RicardoMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenharia de Software** · Anhanguera Educacional  
+**Foco:** Desenvolvimento Backend / Estágio  
+**Stack:** TypeScript · Java · Python · SQL · Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & Ferramentas
+* **Linguagens:** TypeScript, Java, Python
+* **Bancos de Dados:** SQL, MySQL
+* **Ferramentas:** Git, GitHub, Docker
+* **Conceitos:** Lógica de Programação, REST APIs, POO
+
+---
+
+### 📌 Resumo
+Estudante de Engenharia de Software com bagagem de +3 anos em operações, logística e gestão de processos. Aplico essa maturidade em resolução de problemas e organização para construir rotinas de backend estruturadas e eficientes.
+
+---
+
+### ✉️ Contato
+* **LinkedIn:** [linkedin.com/in/ricardo-mendes-02295121a](https://www.linkedin.com/in/ricardo-mendes-02295121a/)
