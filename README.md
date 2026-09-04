@@ -7,8 +7,8 @@
 ---
 
 ### 🛠️ Stack & Ferramentas
-* **Linguagens:** TypeScript, Java, Python
-* **Bancos de Dados:** SQL, MySQL
+* **Linguagens:** TypeScript, Node.js
+* **Bancos de Dados:** SQL, PostgreSql
 * **Ferramentas:** Git, GitHub, Docker
 * **Conceitos:** Lógica de Programação, REST APIs, POO
 
