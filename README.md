@@ -15,7 +15,7 @@
 ---
 
 ### 📌 Resumo
-Estudante de Engenharia de Software com bagagem de +3 anos na área operacional e logística. Atualmente focado na transição para tecnologia, desenvolvendo projetos práticos de estudo em backend e aplicando conceitos de arquitetura, banco de dados e lógica de programação.
+Estudante de Engenharia de Software com bagagem de +3 anos na área operacional e logística. Atualmente focado na transição para tecnologia, desenvolvendo projetos práticos de estudo em fullstack e aplicando conceitos de arquitetura, banco de dados e lógica de programação.
 
 ---
 
