@@ -2,7 +2,7 @@
 
 **Engenharia de Software** · Anhanguera Educacional  
 **Foco:** Desenvolvimento Backend / Estágio  
-**Stack:** TypeScript · Java · Python · SQL · Git
+**Stack:** TypeScript · Node.js · SQL · Git
 
 ---
 
