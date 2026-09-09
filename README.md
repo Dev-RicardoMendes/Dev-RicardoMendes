@@ -1,7 +1,7 @@
 # Ricardo Mendes
 
 **Engenharia de Software** · Anhanguera Educacional  
-**Foco:** Desenvolvimento Backend / Estágio  
+**Foco:** Desenvolvimento Fullstack / Estágio  
 **Stack:** TypeScript · Node.js · SQL · Git
 
 ---
